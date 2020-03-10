@@ -1,4 +1,4 @@
-# ola-otp bypass tool
+# OLA-OTP BYPASS TOOL
 with the help of this tool you can easily bypass otp ! olacap
 
 ![ol](https://user-images.githubusercontent.com/55870659/76345166-3bdd3700-62d9-11ea-9d02-cfc2e8668810.png)
