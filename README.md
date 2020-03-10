@@ -1,4 +1,5 @@
 # ola-otp bypass tool
+with the help of this tool you can easily bypass otp ! olacap
 
 ![ol](https://user-images.githubusercontent.com/55870659/76345166-3bdd3700-62d9-11ea-9d02-cfc2e8668810.png)
 
@@ -15,7 +16,7 @@ When victim enter his credentials, you need to go to original website and use th
 
 # How to Intsall & Use
 root ---must !
-1. git clone https://github.com/Ignitetch/UberEats-Phishing.git
+1. git clone https://github.com/Ignitetch/ola-otp-bypass.git
 2. cd ola-otp bypass/
 3. chmod 777 *
 4. ./ola.sh 
